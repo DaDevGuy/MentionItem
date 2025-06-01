@@ -2,4 +2,4 @@ name: MentionItem
 main:  MentionItem\DaDevGuy\Mention
 version: 1.0.0
 author: DaDevGuy
-api: [4.0.0]
+api: 5.0.0
